@@ -28,3 +28,5 @@ The custom GPT, [Chain Story](https://chatgpt.com/g/g-azMoj9cY6-chain-story), wa
 [Computational Writing](https://chatgpt.com/g/g-67cdbfcc492c8191bab3347b6bab673f-computational-writing)
 <br>
 [Encyclopedia Writer](https://chatgpt.com/g/g-67cc3ffd4ec48191b2e10668d5f03c7c-encyclopedia-writer)
+<br>
+[Infinity Process](https://github.com/sourceduty/Infinity_Process)
