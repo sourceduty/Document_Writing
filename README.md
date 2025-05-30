@@ -26,7 +26,7 @@ Also, similary, [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics) w
 
 #
 
-![Book Monster](https://github.com/user-attachments/assets/824acf70-fd98-46bf-a685-558df87b930e)
+![Book Monster](https://github.com/user-attachments/assets/b0b836f3-d15d-437b-887d-6050ea3141e2)
 
 [Book Monster](https://chatgpt.com/g/g-68381420c5b081919f4c3cd867dfa4b6-book-monster) was made to help writers create compelling, age-appropriate books for children and young adults by offering expert guidance throughout every stage of the storytelling process. Whether you're crafting a story for early readers, middle grade, or young adult audiences, Book Monster helps you develop strong plots, memorable characters, and emotionally resonant themes that align with the developmental needs and interests of young readers. It assists with everything from brainstorming story ideas and building imaginative worlds to outlining chapters, refining pacing, and shaping authentic dialogue. Book Monster also provides detailed feedback on scene construction, emotional arcs, and genre conventions—whether you’re writing contemporary realism, whimsical fantasy, historical fiction, or futuristic sci-fi. With a sensitive eye toward educational and emotional impact, this GPT supports both the creative and structural aspects of writing, ensuring that your story is not only entertaining but also meaningful and developmentally appropriate for its intended audience.
 
