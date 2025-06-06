@@ -1,4 +1,4 @@
-![Documents](https://github.com/user-attachments/assets/5bb5c9c8-2979-40f9-9082-91742c5e614c)
+![Reading](https://github.com/user-attachments/assets/fad2a428-feee-4b70-989e-4ba4bfbe78fa)
 
 Documents, typing, writing, and tools form the backbone of modern communication and productivity. Whether drafting a report, scripting code, or composing creative content, the ability to type efficiently and structure documents clearly is essential. Writing tools—ranging from basic word processors to advanced AI-assisted editors—enhance this process by offering grammar checks, formatting features, and collaboration capabilities. These tools streamline workflows, reduce errors, and help convey ideas more effectively. As digital documentation continues to evolve, integrated platforms and cloud-based solutions further empower teams to work seamlessly across locations and devices, making writing not just a task, but a strategic asset in both creative and professional environments.
 
@@ -30,6 +30,8 @@ Also, similary, [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics) w
 
 [Book Monster](https://chatgpt.com/g/g-68381420c5b081919f4c3cd867dfa4b6-book-monster) was made to help writers create compelling, age-appropriate books for children and young adults by offering expert guidance throughout every stage of the storytelling process. Whether you're crafting a story for early readers, middle grade, or young adult audiences, Book Monster helps you develop strong plots, memorable characters, and emotionally resonant themes that align with the developmental needs and interests of young readers. It assists with everything from brainstorming story ideas and building imaginative worlds to outlining chapters, refining pacing, and shaping authentic dialogue. Book Monster also provides detailed feedback on scene construction, emotional arcs, and genre conventions—whether you’re writing contemporary realism, whimsical fantasy, historical fiction, or futuristic sci-fi. With a sensitive eye toward educational and emotional impact, this GPT supports both the creative and structural aspects of writing, ensuring that your story is not only entertaining but also meaningful and developmentally appropriate for its intended audience.
 
+#
+![Documents](https://github.com/user-attachments/assets/5bb5c9c8-2979-40f9-9082-91742c5e614c)
 #
 
 [Computational Writing](https://chatgpt.com/g/g-67cdbfcc492c8191bab3347b6bab673f-computational-writing)
