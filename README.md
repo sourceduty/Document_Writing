@@ -31,7 +31,13 @@ Also, similary, [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics) w
 [Book Monster](https://chatgpt.com/g/g-68381420c5b081919f4c3cd867dfa4b6-book-monster) was made to help writers create compelling, age-appropriate books for children and young adults by offering expert guidance throughout every stage of the storytelling process. Whether you're crafting a story for early readers, middle grade, or young adult audiences, Book Monster helps you develop strong plots, memorable characters, and emotionally resonant themes that align with the developmental needs and interests of young readers. It assists with everything from brainstorming story ideas and building imaginative worlds to outlining chapters, refining pacing, and shaping authentic dialogue. Book Monster also provides detailed feedback on scene construction, emotional arcs, and genre conventions—whether you’re writing contemporary realism, whimsical fantasy, historical fiction, or futuristic sci-fi. With a sensitive eye toward educational and emotional impact, this GPT supports both the creative and structural aspects of writing, ensuring that your story is not only entertaining but also meaningful and developmentally appropriate for its intended audience.
 
 #
+
 ![Documents](https://github.com/user-attachments/assets/5bb5c9c8-2979-40f9-9082-91742c5e614c)
+
+<br>
+
+Alex: _The lexicon of English is roughly made from naturally popularized terms that are retained in a theoretical framework of creativity. Not everything in English is standardized or regulated with rules. The context of a word can change which then modifies it's definition, adding to more creativity. Throughout the long evolution of English, words have been borrowed extensively from other languages such as Latin, Greek, French, Spanish etc., while also developing new terms through compounding (e.g. 'smartphone'), blending ('brunch') or clipping/truncation ('flu' for influenza). The result is a highly flexible and adaptable language with vast vocabulary to express complex ideas across diverse fields of knowledge. English has absorbed influences from around the world, including slang, jargon, regional dialects and new technologies that constantly shape its lexicon in dynamic ways._
+
 #
 
 [Computational Writing](https://chatgpt.com/g/g-67cdbfcc492c8191bab3347b6bab673f-computational-writing)
