@@ -49,3 +49,5 @@ Alex: _The lexicon of English is roughly made from naturally popularized terms t
 [Bond 007 Book](https://chatgpt.com/g/g-6787d45afd4481919abc9cc9e0224f2f-bond-007-book)
 <br>
 [Book Structure](https://chat.openai.com/g/g-yNWlLa7n0-book-structure)
+<br>
+[Language Maker](https://chatgpt.com/g/g-6866e91317d88191b7660f39ec2850e2-language-maker)
