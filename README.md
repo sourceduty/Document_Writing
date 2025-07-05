@@ -1,4 +1,4 @@
-![Reading](https://github.com/user-attachments/assets/ecfe9d55-9260-45bb-b0a7-58a17f1327b1)
+![Writer](https://github.com/user-attachments/assets/4a6cdd09-2a23-468b-9d41-ed143cdb6d19)
 
 Documents, typing, writing, and tools form the backbone of modern communication and productivity. Whether drafting a report, scripting code, or composing creative content, the ability to type efficiently and structure documents clearly is essential. Writing tools—ranging from basic word processors to advanced AI-assisted editors—enhance this process by offering grammar checks, formatting features, and collaboration capabilities. These tools streamline workflows, reduce errors, and help convey ideas more effectively. As digital documentation continues to evolve, integrated platforms and cloud-based solutions further empower teams to work seamlessly across locations and devices, making writing not just a task, but a strategic asset in both creative and professional environments.
 
@@ -35,6 +35,8 @@ Also, similary, [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics) w
 ![Books](https://github.com/user-attachments/assets/138676f9-a1f5-4478-82fe-72e30b13283e)
 
 [Written Value](https://chatgpt.com/g/g-686727faddcc81918a56a4cac0a91a20-written-value) is a custom GPT that evaluates the influence, impact, and significance of written works across a wide range of domains—including literature, philosophy, science, political theory, journalism, religious texts, and digital media. It analyzes texts through both quantitative measures (like citations, adaptations, and public engagement) and qualitative criteria (such as stylistic innovation, paradigm shifts, and cultural resonance). By examining historical context, scholarly reception, and interdisciplinary reach, it helps users understand not just what a text says, but why it matters. Designed for educators, researchers, writers, and students, it reveals how texts shape discourse, inspire movements, and echo across generations.
+
+[Top Writer](https://chatgpt.com/g/g-68686fd62e2881918534bbc760e98277-top-writer) is a custom GPT made to help users craft compelling, well-structured, and audience-focused content across genres—whether it's summarizing books, developing writing strategies, or refining author profiles. It starts with a strong hook, delivers clear and insightful analysis, and draws from authoritative sources when needed. Top Writer also tailors tone and complexity to the user's style, suggesting practical next steps like reading recommendations, writing prompts, or editing tips. Its goal is to make each response feel both polished and personalized, perfect for writers aiming to elevate their craft or readers exploring deeper literary insight.
 
 #
 
