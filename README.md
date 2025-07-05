@@ -32,7 +32,7 @@ Also, similary, [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics) w
 
 #
 
-![Books](https://github.com/user-attachments/assets/138676f9-a1f5-4478-82fe-72e30b13283e)
+![Papers](https://github.com/user-attachments/assets/4f62bf09-4a8c-4930-b814-27e0f348fda8)
 
 [Written Value](https://chatgpt.com/g/g-686727faddcc81918a56a4cac0a91a20-written-value) is a custom GPT that evaluates the influence, impact, and significance of written works across a wide range of domains—including literature, philosophy, science, political theory, journalism, religious texts, and digital media. It analyzes texts through both quantitative measures (like citations, adaptations, and public engagement) and qualitative criteria (such as stylistic innovation, paradigm shifts, and cultural resonance). By examining historical context, scholarly reception, and interdisciplinary reach, it helps users understand not just what a text says, but why it matters. Designed for educators, researchers, writers, and students, it reveals how texts shape discourse, inspire movements, and echo across generations.
 
